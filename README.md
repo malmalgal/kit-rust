@@ -1,0 +1,2 @@
+# kit-rust
+rust project
